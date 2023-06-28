@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/guard-dog-facts/static/css/main.3f745eb4.css",
+    "main.js": "/guard-dog-facts/static/js/main.ef18a3f3.js",
+    "static/media/GermanShephard.png": "/guard-dog-facts/static/media/GermanShephard.4d899a347437e88a12c0.png",
+    "static/media/Doberman-Pinscher-800px.png": "/guard-dog-facts/static/media/Doberman-Pinscher-800px.10ace1e30a1a7d8f589c.png",
+    "static/media/rottweiler.png": "/guard-dog-facts/static/media/rottweiler.7a10493bded424867e31.png",
+    "index.html": "/guard-dog-facts/index.html",
+    "main.3f745eb4.css.map": "/guard-dog-facts/static/css/main.3f745eb4.css.map",
+    "main.ef18a3f3.js.map": "/guard-dog-facts/static/js/main.ef18a3f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f745eb4.css",
+    "static/js/main.ef18a3f3.js"
+  ]
+}
